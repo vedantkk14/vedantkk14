@@ -1,24 +1,88 @@
+<!-- MATRIX HEADER GIF -->
 <img align="center" alt="coding" width="100%" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
+<br>
 
-# 💫 About Me:
-Hey, I’m Vedant. I love coding, exploring AI concepts, and developing real-world applications—especially projects that blend logic, data, and creativity.
+<!-- INTRO + SOCIALS -->
+<div align="center">
+    <h1>Hi, I'm Vedant 👋</h1>
 
+  <p>
+      <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      <a href="mailto:vedantkolhapure111@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+      </a>
+  </p>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vedant Kolhapure) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedantkolhapure111@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vedantkk14&theme=neon&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vedantkk14&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantkk14&theme=neon&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<!-- GITHUB PROFILE SUMMARY -->
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantkk14&theme=github_dark" width="90%" alt="Vedant GitHub Stats"/>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+<br>
+
+<!-- MATRIX TYPING ANIMATIONS -->
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=38&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Initiating+Sequence...;Access+Granted.;Welcome+Vedant.;Entering+the+Matrix..." alt="typing animation">
+  </h1>
+</div>
+
+<div align="center">
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2500&color=00FF00&center=true&vCenter=true&width=650&lines=Loading+Vedant.exe...;Initializing+AI+Modules...;Booting+Data+Pipelines...;Compiling+Curiosity...;Deploying+Hands-on+Projects...;Optimizing+Human+%2B+Machine+Intelligence...;System+Online." alt="Matrix Typing Animation">
+  </h2>
+</div>
+
+<br>
+
+<!-- ABOUT / WHAT I DO -->
+## 🧠 What I Do
+I love building intelligent systems and practical AI/ML projects.  
+I enjoy turning data into meaningful insights and creating solutions that truly matter.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vedantkk14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- TECH STACK -->
+## 🔧 Tech Stack
+
+### 🗣️ Languages
+<p>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+### 📊 Data Science & ML
+<p>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" alt="Seaborn">
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly">
+</p>
+
+### 🤖 Deep Learning & AI
+<p>
+    <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white" alt="LangChain">
+    <img src="https://img.shields.io/badge/AI_Agents-00D9FF?style=flat&logo=ai&logoColor=white" alt="AI Agents">
+</p>
+
+### 🛢️ Databases & Version Control
+<p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+</p>
