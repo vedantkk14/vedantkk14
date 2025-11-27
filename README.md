@@ -19,20 +19,6 @@
 
 <br>
 
-<!-- GITHUB PROFILE SUMMARY -->
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantkk14&theme=github_dark" width="90%" alt="Vedant GitHub Stats"/>
-</div>
-
-<br>
-
-<!-- MATRIX TYPING ANIMATIONS -->
-<div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=38&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Initiating+Sequence...;Access+Granted.;Welcome+Vedant.;Entering+the+Matrix..." alt="typing animation">
-  </h1>
-</div>
-
 <div align="center">
   <h2>
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2500&color=00FF00&center=true&vCenter=true&width=650&lines=Loading+Vedant.exe...;Initializing+AI+Modules...;Booting+Data+Pipelines...;Compiling+Curiosity...;Deploying+Hands-on+Projects...;Optimizing+Human+%2B+Machine+Intelligence...;System+Online." alt="Matrix Typing Animation">
@@ -41,14 +27,14 @@
 
 <br>
 
-<!-- ABOUT / WHAT I DO -->
-## 🧠 What I Do
-I love building intelligent systems and practical AI/ML projects.  
-I enjoy turning data into meaningful insights and creating solutions that truly matter.
+## 👤 About Me
 
----
+Always exploring how intelligence emerges from data.
+I love building hands-on AI/ML systems, understanding how things work behind the scenes,
+and turning curiosity into code that solves real problems.
 
-<!-- TECH STACK -->
+<br>
+
 ## 🔧 Tech Stack
 
 ### 🗣️ Languages
@@ -86,3 +72,21 @@ I enjoy turning data into meaningful insights and creating solutions that truly 
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
 </p>
+
+<br>
+
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantkk14&theme=react-dark&hide_border=true&area=true&area_color=00ff00&point=00ff00&line=00ff00&custom_title=Contribution+Graph&line_width=2&animate=draw">
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Exiting+Matrix...;Disconnecting+Session...;Goodbye+👋;See+you+next+time.">
+</p>
+
+
+
+
