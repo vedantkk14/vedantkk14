@@ -1,28 +1,42 @@
-name: Generate Snake
+name: ⚡ Neon Contribution Engine
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
+    name: Generate Cyber Snake
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake animation
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animations
         uses: Platane/snk@v3
         with:
           github_user_name: vedantkk14
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake animation to output branch
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?palette=github-dark
+            dist/pacman-contribution-graph.svg
+
+      - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
           publish_branch: output
+          publish_dir: ./dist
+
+      - name: Success Banner
+        run: |
+          echo "⚡ Contribution artifacts generated successfully."
+          echo "🚀 Output branch updated."
