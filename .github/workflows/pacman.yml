@@ -9,17 +9,20 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+
+      - name: Generate Pacman Contribution Graph
+        uses: Platane/snk@v3
         with:
           github_user_name: vedantkk14
           outputs: |
             dist/pacman-contribution-graph.svg
 
-      - uses: peaceiris/actions-gh-pages@v3
+      - name: Push Pacman Graph to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
