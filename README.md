@@ -60,21 +60,22 @@
 
   NAME        :  Vedant Kolhapure
   ALIAS       :  vedantkk14
-  DESIGNATION :  AI & Backend Architecture Student (Year 2)
-  BASE        :  Maharashtra, India
+  DESIGNATION :  AI & Backend Developer
+  BASE        :  Pune, Maharashtra, India
   ACADEMICS   :  B.Tech — AI & Data Science [Class of 2027]
   
   CORE_STACK  :
-    > AI & ML :  PyTorch · HuggingFace · LangChain · FAISS
-    > Backend :  FastAPI · Django · Flask · MySQL
+    > AI & LLMs  :  LangChain · FAISS · HuggingFace · RAG · Prompt Engineering
+    > Backend    :  Django · FastAPI · Flask · REST APIs · Python · SQL
+    > ML & Data  :  PyTorch · TensorFlow · Scikit-learn · NLP · Pandas
     
   OPERATIONAL_PARAMETERS:
-    - [x] Focuses on "Glass Box" interpretability over black-box guessing.
-    - [x] Builds deterministic validation pipelines (because LLMs hallucinate).
-    - [x] Ships full-stack workflows, from raw datasets to production UIs.
-    - [x] Documents the journey publicly (e.g., "30 Days of Deep Learning").
+    - [x] Builds AI systems that are grounded, reliable, and production-ready.
+    - [x] Designs clean backend APIs and server-side architecture that holds up under real use.
+    - [x] Ships full-stack workflows — from model training to deployed frontends.
+    - [x] Has built and delivered software for real clients that is actively in production.
     
-  CURRENT_DIRECTIVE :  Secure a high-impact AI/Backend internship.
+  CURRENT_DIRECTIVE :  Secure a high-impact AI or Backend internship.
   SYS_STATUS        :  [ONLINE] — Actively seeking opportunities.
 ```
 
@@ -126,13 +127,13 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-00FF41?style=flat-square&labelColor=0D0D0D)
-![Signal Processing](https://img.shields.io/badge/Signal_Processing-FF0080?style=flat-square&labelColor=0D0D0D)
 
 **`[ LANGUAGES & TOOLS ]`**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -171,13 +172,14 @@
 
 ```
 STACK   : LangChain · FAISS · HuggingFace
-          Python · Streamlit
+          FastAPI · Streamlit · Python
 
-ABOUT   : AI-powered study assistant
-          that ingests syllabuses and
-          answers questions with source
-          citations. Built for students
-          who want answers, not links.
+ABOUT   : AI-powered study assistant for
+          university exam prep. Ingests
+          textbooks via RAG, answers with
+          context-grounded accuracy, and
+          falls back to web search when
+          needed. Quizzes included.
 ```
 
 [![View](https://img.shields.io/badge/View_Repo-00FF41?style=flat-square&logo=github&logoColor=black&labelColor=0D0D0D)](https://github.com/vedantkolhapure)
@@ -194,13 +196,14 @@ ABOUT   : AI-powered study assistant
 </div>
 
 ```
-STACK   : Django · MySQL
+STACK   : Django · SQL
           JavaScript · HTML/CSS
 
-ABOUT   : Full-stack platform built
-          for a real client, serving
-          real users. Not a tutorial.
-          Not a clone. In production.
+ABOUT   : Full-stack web application
+          built for a real local food
+          business client. Handles menu
+          management and customer flow.
+          Not a tutorial. In production.
 ```
 
 [![View](https://img.shields.io/badge/View_Repo-FF0080?style=flat-square&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/vedantkolhapure)
@@ -220,12 +223,13 @@ ABOUT   : Full-stack platform built
 
 ```
 STACK   : Flask · Python
-          NLP · Transformers
+          NLP · REST API · JavaScript
 
-ABOUT   : Reads full news articles,
-          summarizes them, and runs
-          sentiment analysis. TL;DR,
-          but make it intelligent.
+ABOUT   : Fetches real-time news and
+          generates concise summaries
+          automatically. Adds sentiment
+          analysis to surface bias and
+          emotional framing at a glance.
 ```
 
 [![View](https://img.shields.io/badge/View_Repo-00BFFF?style=flat-square&logo=github&logoColor=black&labelColor=0D0D0D)](https://github.com/vedantkolhapure)
@@ -235,20 +239,21 @@ ABOUT   : Reads full news articles,
 
 <div align="center">
 
-### `PID_004 — MindPulse`
+### `PID_004 — Fitness CRM`
 
-![](https://img.shields.io/badge/Biomedical_ML-DEPLOYED-FFD21E?style=flat-square&labelColor=0D0D0D)
+![](https://img.shields.io/badge/Production_CRM-IN_PRODUCTION-FFD21E?style=flat-square&labelColor=0D0D0D)
 
 </div>
 
 ```
-STACK   : SVM · Flask · Python
-          Signal Processing · NumPy
+STACK   : PHP · SQL
+          HTML · CSS · JavaScript
 
-ABOUT   : Epileptic seizure detection
-          from raw EEG brain signals.
-          Where most students build
-          clones, this one saves lives.
+ABOUT   : Production-grade CRM built
+          during a professional internship
+          for a real fitness business.
+          Handles client tracking, auth,
+          and progress management. Live.
 ```
 
 [![View](https://img.shields.io/badge/View_Repo-FFD21E?style=flat-square&logo=github&logoColor=black&labelColor=0D0D0D)](https://github.com/vedantkolhapure)
@@ -415,7 +420,7 @@ CURRENT_MODE       = BUILDING
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedant_Kolhapure-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://www.linkedin.com/in/vedant-kolhapure-367b282a5/)
 [![Gmail](https://img.shields.io/badge/Email-vedantkolhapure111@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:vedantkolhapure111@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Launching_Soon-00FF41?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D0D0D)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00FF41?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D0D0D)](https://portfolio-mjny.vercel.app/)
 
 <br>
 
