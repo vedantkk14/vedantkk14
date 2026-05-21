@@ -189,21 +189,23 @@ ABOUT   : AI-powered study assistant for
 
 <div align="center">
 
-### `PID_002 — Solapur Swad`
+### `PID_002 — MindPulse`
 
-![](https://img.shields.io/badge/Full_Stack_App-IN_PRODUCTION-FF0080?style=flat-square&labelColor=0D0D0D)
+![](https://img.shields.io/badge/ML_Web_App-DEPLOYED-FF0080?style=flat-square&labelColor=0D0D0D)
 
 </div>
 
 ```
-STACK   : Django · SQL
-          JavaScript · HTML/CSS
+STACK   : Python · Flask · Scikit-learn
+          Pandas · NumPy · Joblib
+          HTML · CSS · JavaScript
 
-ABOUT   : Full-stack web application
-          built for a real local food
-          business client. Handles menu
-          management and customer flow.
-          Not a tutorial. In production.
+ABOUT   : ML-powered epileptic seizure
+          predictor trained on EEG data.
+          SVM model hits 97% accuracy.
+          Upload a CSV (1×178 EEG record)
+          and get instant predictions with
+          probability scores via web UI.
 ```
 
 [![View](https://img.shields.io/badge/View_Repo-FF0080?style=flat-square&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/vedantkolhapure)
