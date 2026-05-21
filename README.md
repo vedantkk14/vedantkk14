@@ -182,7 +182,7 @@ ABOUT   : AI-powered study assistant for
           needed. Quizzes included.
 ```
 
-[![View](https://img.shields.io/badge/View_Repo-00FF41?style=flat-square&logo=github&logoColor=black&labelColor=0D0D0D)](https://github.com/vedantkolhapure)
+[![View](https://img.shields.io/badge/View_Repo-00FF41?style=flat-square&logo=github&logoColor=black&labelColor=0D0D0D)]([https://github.com/vedantkolhapure](https://github.com/vedantkk14/UniMate.ai.git))
 
 </td>
 <td width="50%" valign="top">
@@ -208,7 +208,7 @@ ABOUT   : ML-powered epileptic seizure
           probability scores via web UI.
 ```
 
-[![View](https://img.shields.io/badge/View_Repo-FF0080?style=flat-square&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/vedantkolhapure)
+[![View](https://img.shields.io/badge/View_Repo-FF0080?style=flat-square&logo=github&logoColor=white&labelColor=0D0D0D)]([https://github.com/vedantkolhapure](https://github.com/vedantkk14/MindPulse2.git))
 
 </td>
 </tr>
@@ -234,7 +234,7 @@ ABOUT   : Fetches real-time news and
           emotional framing at a glance.
 ```
 
-[![View](https://img.shields.io/badge/View_Repo-00BFFF?style=flat-square&logo=github&logoColor=black&labelColor=0D0D0D)](https://github.com/vedantkolhapure)
+[![View](https://img.shields.io/badge/View_Repo-00BFFF?style=flat-square&logo=github&logoColor=black&labelColor=0D0D0D)]([https://github.com/vedantkolhapure](https://github.com/vedantkk14/NewsGist.git))
 
 </td>
 <td width="50%" valign="top">
@@ -257,8 +257,6 @@ ABOUT   : Production-grade CRM built
           Handles client tracking, auth,
           and progress management. Live.
 ```
-
-[![View](https://img.shields.io/badge/View_Repo-FFD21E?style=flat-square&logo=github&logoColor=black&labelColor=0D0D0D)](https://github.com/vedantkolhapure)
 
 </td>
 </tr>
